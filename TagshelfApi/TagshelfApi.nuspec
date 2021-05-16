@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>TagshelfApi.chsharp</id>
+    <version>1.0.0.0</version>
+    <title>TagshelfApi.chsharp</title>
+    <authors>Tagshelf SRL</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/tagshelf-api/csharp</projectUrl>
+    <iconUrl>https://static.tagshelf.io/assets/images/tagshelf.png</iconUrl>
+    <description>Csharp wrapper for Tagshelf's API.</description>
+    <releaseNotes>First release of the Csharp wrapper for Tagshelf's API.</releaseNotes>
+    <copyright>Tagshelf SRL Copyright �  2021</copyright>
+    <tags>API Tagshelf</tags>
+  </metadata>
+</package>
